@@ -1,0 +1,22 @@
+.header {
+    
+    text-align: center;
+    background-color: rgb(34, 109, 109);
+    color: white;
+}
+h3{
+    text-align: center;
+}
+
+.fclass {
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+.main-div {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(161, 105, 105);
+}
